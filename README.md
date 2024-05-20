@@ -1,6 +1,6 @@
 # HR-Analytics
 
-## Project objective:
+## Project Description:
 HR analytics has become increasingly important in modern organizations due to its ability to provide valuable insights into various aspects of human resources management. Analyzing recruitment data helps in identifying the most effective sourcing channels, assessing candidate quality, and improving the recruitment process. Similarly, analyzing turnover data can uncover patterns and factors contributing to employee attrition, allowing organizations to take preventive measures to retain talent.
 HR analytics can provide insights into employee performance, identifying top performers, areas for improvement, and factors influencing productivity. This information is valuable for performance evaluations, training programs, and career development initiatives. By analyzing workforce demographics, skills inventory, and performance data, HR analytics helps organizations forecast future workforce needs and plan accordingly. This includes identifying skill gaps, succession planning, and workforce restructuring.
 ## Problems Addressed:
