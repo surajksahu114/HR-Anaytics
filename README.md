@@ -1,4 +1,4 @@
-# Optimizing Workforce Retention: An Analytical Study of Employee Attrition Patterns
+# Optimizing Workforce Retention: An HR Analytical Study of Employee Attrition Patterns
 
 ## Project Description:
 HR analytics has become increasingly important in modern organizations due to its ability to provide valuable insights into various aspects of human resources management. Analyzing recruitment data helps in identifying the most effective sourcing channels, assessing candidate quality, and improving the recruitment process. Similarly, analyzing turnover data can uncover patterns and factors contributing to employee attrition, allowing organizations to take preventive measures to retain talent.
